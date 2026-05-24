@@ -14,8 +14,8 @@ from telegram.ext import (
 )
 from duckduckgo_search import DDGS
 
-TELEGRAM_TOKEN = "Token_bot"
-GROQ_API_KEY = "your_key"
+TELEGRAM_TOKEN = "8408575898:AAFgrIVmWRbVlC1ZNKzfQienozqBn2omPvk"
+GROQ_API_KEY = "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"
 MODEL = "gpt-oss-120b"
 DATA_FILE = "users_data.json"
 
